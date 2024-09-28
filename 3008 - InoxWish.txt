@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExclusiveVersionGithubIsLoaded/universalscript/main/3008"))()
